@@ -28,7 +28,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:hydrabus-shield-template-cache
+LIBS:hydraflash-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -318,7 +318,7 @@ L Flash_NAND U1
 U 1 1 574F360F
 P 5250 3750
 F 0 "U1" H 5250 3750 60  0000 C CNN
-F 1 "Flash_NAND" H 5250 3750 60  0000 C CNN
+F 1 "Flash_NAND" H 5250 4500 60  0000 C CNN
 F 2 "tsop48_socket:TSOP48ZIF" H 5250 3750 60  0001 C CNN
 F 3 "" H 5250 3750 60  0000 C CNN
 	1    5250 3750
